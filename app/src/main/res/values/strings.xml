@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="q">where are u</string>
+    <string name="Q">Q</string>
+    <string name="textview">TextView</string>
+    <string name="share">Share</string>
+    <string name="score_view">Score View</string>
+    <string name="next">Next</string>
+    <string name="prev">Prev</string>
+    <string name="radiobutton">RadioButton</string>
+<!--    <string name="radiobutton">RadioButton</string>-->
+<!--    <string name="radiobutton">RadioButton</string>-->
+<!--    <string name="radiobutton">RadioButton</string>-->
+</resources>
